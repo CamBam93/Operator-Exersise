@@ -1,0 +1,13 @@
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\bin\Debug\netcoreapp3.1\Operator_Exer.exe
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\bin\Debug\netcoreapp3.1\Operator_Exer.deps.json
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\bin\Debug\netcoreapp3.1\Operator_Exer.runtimeconfig.json
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\bin\Debug\netcoreapp3.1\Operator_Exer.runtimeconfig.dev.json
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\bin\Debug\netcoreapp3.1\Operator_Exer.dll
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\bin\Debug\netcoreapp3.1\Operator_Exer.pdb
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\obj\Debug\netcoreapp3.1\Operator_Exer.csprojAssemblyReference.cache
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\obj\Debug\netcoreapp3.1\Operator_Exer.AssemblyInfoInputs.cache
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\obj\Debug\netcoreapp3.1\Operator_Exer.AssemblyInfo.cs
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\obj\Debug\netcoreapp3.1\Operator_Exer.csproj.CoreCompileInputs.cache
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\obj\Debug\netcoreapp3.1\Operator_Exer.dll
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\obj\Debug\netcoreapp3.1\Operator_Exer.pdb
+C:\Users\Cameron Kellett\Skoo\GIT\repos\Operator_Exer\Operator_Exer\obj\Debug\netcoreapp3.1\Operator_Exer.genruntimeconfig.cache
